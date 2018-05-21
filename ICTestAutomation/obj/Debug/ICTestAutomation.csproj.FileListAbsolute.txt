@@ -1,0 +1,8 @@
+c:\users\hzha321\documents\visual studio 2015\Projects\ICTestAutomation\ICTestAutomation\bin\Debug\ICTestAutomation.dll
+c:\users\hzha321\documents\visual studio 2015\Projects\ICTestAutomation\ICTestAutomation\bin\Debug\ICTestAutomation.pdb
+c:\users\hzha321\documents\visual studio 2015\Projects\ICTestAutomation\ICTestAutomation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\hzha321\documents\visual studio 2015\Projects\ICTestAutomation\ICTestAutomation\bin\Debug\WebDriver.dll
+c:\users\hzha321\documents\visual studio 2015\Projects\ICTestAutomation\ICTestAutomation\bin\Debug\WebDriver.xml
+c:\users\hzha321\documents\visual studio 2015\Projects\ICTestAutomation\ICTestAutomation\obj\Debug\ICTestAutomation.csprojResolveAssemblyReference.cache
+c:\users\hzha321\documents\visual studio 2015\Projects\ICTestAutomation\ICTestAutomation\obj\Debug\ICTestAutomation.dll
+c:\users\hzha321\documents\visual studio 2015\Projects\ICTestAutomation\ICTestAutomation\obj\Debug\ICTestAutomation.pdb
